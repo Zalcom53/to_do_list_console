@@ -5,7 +5,7 @@
   Descripcion: Este archivo contiene una funcion que se encarga de ejecutar todo el sitema
 */
 
-
+#include "utileria.h"
 /** \fn int *crear_arreglo(int L)
  * \brief Crea un arreglo de tamaño L
  * \param L Tamaño del arreglo.
