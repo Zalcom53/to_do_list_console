@@ -6,10 +6,10 @@
 */
 
 #include "utileria.h"
-/** \fn int *crear_arreglo(int L)
- * \brief Crea un arreglo de tamaño L
- * \param L Tamaño del arreglo.
- * \return Devuelve el puntero al arreglo.  */
+/** \fn
+ * \brief
+ * \param
+ * \return   */
  int main(/* no arguments */) {
 
 run();
