@@ -1,0 +1,16 @@
+Este archivo contiene la version 0.1 de las especificaciones funcionales de TDLC (To do lists console)
+
+
+AGREGAR PENDIENTE
+MODIFICAR PENDIENTE
+EDITAR PENDIENTE
+MARCAR COMO LISTO
+FECHA
+USUARIOS
+
+ESTRUCTURA PENDIENTE
+- Pendiente
+- Fecha
+- Estatus
+- A que lista corresponde
+- Codigo de colores
